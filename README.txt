@@ -8,8 +8,8 @@ Files:
 - disclosure.html: affiliate disclosure
 
 IMPORTANT BEFORE PUBLISHING:
-1. Replace hello@example.com with a real business email.
-2. Add your own affiliate products, original descriptions, images you have rights to use, and tracking links.
+1. The contact email has been set to officialprimebusiness01@gmail.com; change it if needed.
+2. Add verified affiliate products, original descriptions, images you have rights to use, and tracking links. The current photo cards are editorial previews, not live product offers.
 3. Replace sample cards. Do not publish sample cards as real offers.
 4. Review privacy policy for the services/cookies you actually use and local legal requirements.
 5. Add your social media links and contact details.
